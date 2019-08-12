@@ -29,11 +29,6 @@ namespace COMP123_S2019_Assignment5_SophiaBhullar301048344
             this.Hide();
         }
 
-        private void CancelButton_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
-
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Application.Exit();

@@ -13,6 +13,7 @@ namespace COMP123_S2019_Assignment5_SophiaBhullar301048344
         SELECT_FORM,
         PRODUCT_INFO_FORM,
         ORDER_FORM,
+        ABOUT_FORM,
         NUM_OF_FORMS
     }
 }

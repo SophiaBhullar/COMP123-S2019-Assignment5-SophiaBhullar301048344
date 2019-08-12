@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP123-S2019-Assignment5-SophiaBhullar301048344", "COMP123-S2019-Assignment5-SophiaBhullar301048344\COMP123-S2019-Assignment5-SophiaBhullar301048344.csproj", "{0BC45124-9F61-4F41-94C8-0E7BDBA9345A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DollarComputersUnitTestProject", "DollarComputersUnitTestProject\DollarComputersUnitTestProject.csproj", "{ABFF5EF6-A319-41B0-BC04-C54120033E80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0BC45124-9F61-4F41-94C8-0E7BDBA9345A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BC45124-9F61-4F41-94C8-0E7BDBA9345A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BC45124-9F61-4F41-94C8-0E7BDBA9345A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABFF5EF6-A319-41B0-BC04-C54120033E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFF5EF6-A319-41B0-BC04-C54120033E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFF5EF6-A319-41B0-BC04-C54120033E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFF5EF6-A319-41B0-BC04-C54120033E80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
